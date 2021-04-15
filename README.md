@@ -2,6 +2,8 @@
 
 **Please be prepared to describe your code. Basically if you don't understand it, don't use it!**
 
+submission
+
 You have been chosen by Whisks and Things (https://whiskandthings.co.uk/) to audit their newly launched website. To do so, you'll need to complete the following:
 
 1. Generate 2 personas for the website. Be as specific as you can with age, genders, financial status, and reasons for coming to the website. (20 points)
