@@ -7,20 +7,22 @@ You have been chosen by Whisks and Things (https://whiskandthings.co.uk/) to aud
 1. Generate 2 personas for the website. Be as specific as you can with age, genders, financial status, and reasons for coming to the website. (20 points)
 
 Persona n-1:
-Name: Anna
-Age: 54
-Gender: Female
-Working position: She works as a manager for an events company
-Financial status: £ 42.000 year
-Reason for coming to the website: She wants to order some treat to meet with new clients.
+
+- Name: Anna
+- Age: 54
+- Gender: Female
+- Working position: She works as a manager for an events company
+- Financial status: £ 42.000 year
+- Reason for coming to the website: She wants to order some treat to meet with new clients.
 
 Persona n-2:
-Name: Jhon
-Age: 38
-Gender: Male
-Working position: He runs his own business.
-Financial status: £ 30.000 to 50.000 year
-Reason for coming to the website: he is opening his new shop in South est London and wants to set a buffet for his customer
+
+- Name: Jhon
+- Age: 38
+- Gender: Male
+- Working position: He runs his own business.
+- Financial status: £ 30.000 to 50.000 year
+- Reason for coming to the website: he is opening his new shop in South est London and wants to set a buffet for his customer
 
 2. Choose one of the personas and use the 5 second rule. Does the website pass? Explain why or why not.(15 points)
 
